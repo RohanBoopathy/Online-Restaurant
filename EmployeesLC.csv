@@ -1,0 +1,6 @@
+ID,Last Name,First Name,Position,Salary,Date of Joining,Contact Number,Address,Date of Birth,ID Proof
+E001,Fring,Gustavo,Manager,$4093,20-04-2019,(208) 734-9611,"4557 De Silva St, Fremont, CA 94538",26-04-1978,SSN
+E002,Schrute,Dwight,Assistant (to the) Manager,$2935,30-04-2019,(805) 529-0264,"4564 N Isle Royale St, Moorpark, CA 93021",18-04-1989,Driver's License
+E003,Santana,Corey,Executive Chef,$4290,28-07-2020,(619) 921-9675,"1641 Ocello Street, San Diego, CA 92117",03-04-1989,SSN
+E004,Sagar,Nikhil,Head Chef,$3281,13-06-2020,(323) 830-2542,"3255 Evergreen Lane, Los Angeles, CA 90017",06-11-1993,Driver's License
+E005,Lozano,Henrick,Pizza Chef,$3026,06-10-2020,(521) 342-9248,"64 Lincoln Ave, Los Angeles, CA 90017",16-08-1991,Driver's License
